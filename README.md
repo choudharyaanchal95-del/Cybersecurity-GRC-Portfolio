@@ -3,6 +3,6 @@ This repository contains my practical Cybersecurity GRC learning work including 
 All files are original work created during my GRC learning journey.
 
 Risk Assessment 
-- Created a sample risk register for a mid-sized company
+- Created a sample risk register, Risk heat map, Risk treatment plan with visuals (Charts) for a mid-sized company
 - Performed likelihood & impact scoring
 - Assigned risk levels using heatmap method
