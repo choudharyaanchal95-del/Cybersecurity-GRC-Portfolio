@@ -1,4 +1,3 @@
-<img width="76" height="61" alt="image" src="https://github.com/user-attachments/assets/98b27e16-81e0-4654-9e2c-99d10d91038b" />Cybersecurity GRC Portfolio
 This repository contains my practical Cybersecurity GRC learning work including writing ISO 27001 policy, mock risk assessment including Risk Register, Risk heat map, Risk treatment plan and GRC dashboards created for hands-on understanding of governance, risk management, and compliance.
 All files are original work created during my GRC learning journey.
 
